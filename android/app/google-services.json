@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "975680620261",
+    "project_id": "realtorapp-415b3",
+    "storage_bucket": "realtorapp-415b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975680620261:android:2d457ede45229d2c4bb60c",
+        "android_client_info": {
+          "package_name": "com.realterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975680620261-rmrvukv1g98e7lbq7258on5jrdhb0hfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realterapp",
+            "certificate_hash": "83df7a68ef501cf838acf478924f8128d39b1f2b"
+          }
+        },
+        {
+          "client_id": "975680620261-opas3mrbnf5hn5i3h5r1mhhmeckdnti1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuLJ3CpzqHVxMjA065natnffQpzd_CZds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975680620261-opas3mrbnf5hn5i3h5r1mhhmeckdnti1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

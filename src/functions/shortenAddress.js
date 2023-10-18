@@ -1,0 +1,1 @@
+export const shortenAddress = (address) => `${address !=null ? address.slice(0, 15): ""}...`;
